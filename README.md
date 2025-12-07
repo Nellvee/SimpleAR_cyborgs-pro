@@ -33,11 +33,11 @@ How to use the application:
 7. Click Clear All to remove all created models from the scene.
 
 Difficulties encountered while creating the project:
-0. Requires version 6000.0.43f1.
+1. Requires version 6000.0.43f1.
 Unfortunately, this version is outdated and unsafe to use due to security issues.
 https://unity.com/security/sept-2025-01
-1. I have little experience with AR Foundation because I used MAXST Image Tracking. I spent time quickly researching the functionality of AR Plane Manager + AR Raycast Manager and the examples included in the project template.
-2. Because I previously used TriLibCore to load models, which is a paid service, so I had to spend some time finding a plugin for loading models.
+2. I have little experience with AR Foundation because I used MAXST Image Tracking. I spent time quickly researching the functionality of AR Plane Manager + AR Raycast Manager and the examples included in the project template.
+3. Because I previously used TriLibCore to load models, which is a paid service, so I had to spend some time finding a plugin for loading models.
 My first two searches came up: GLTFUtility (Siccity) and UnityGLTF (KhronosGroup).
 Unfortunately, GLTFUtility (Siccity) didn't work for me with the models that was provided. (You can try it yourself in Test Runner -> Play Mode -> Simple AR -> GLTFUtilityTest.cs)
-3. Task (2) says that when entering an AR scene, there's a "Set Model" button that's unlit until at least one plane is found. However, further on, in (3), it says that to place a model, you need to tap on the plane. I didn't understand what the "Set Model" button was supposed to do if models are placed not by pressing the button, but by tapping on the plane itself.
+4. Task (2) says that when entering an AR scene, there's a "Set Model" button that's unlit until at least one plane is found. However, further on, in (3), it says that to place a model, you need to tap on the plane. I didn't understand what the "Set Model" button was supposed to do if models are placed not by pressing the button, but by tapping on the plane itself.
