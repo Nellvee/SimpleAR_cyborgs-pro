@@ -1,6 +1,6 @@
 # SimpleAR_cyborgs-pro
 
-Simple AR project where we can download 1 model from web, then place it on every horizontal surface in AR.
+Simple AR project where you can download 1 model from web, then place it on every horizontal surface in AR.
 
 The project took 7 hours and 54 minutes to complete.
 
