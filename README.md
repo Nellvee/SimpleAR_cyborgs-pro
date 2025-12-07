@@ -12,9 +12,11 @@ How to use the project:
 1. git clone https://github.com/Nellvee/SimpleAR_cyborgs-pro.git
 2. Launch Unity.
 3. Click Play or Build and Run.
+
 Or:
 1. Upload the .apk to your device.
 2. Install the .apk.
+
 Or:
 1. Connect your device to your PC (enable debugging on the device).
 2. Find adb.exe
